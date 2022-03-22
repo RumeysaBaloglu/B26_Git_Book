@@ -2,7 +2,6 @@
 
 This is the start of my book
 page 1 will help us get started
+Java is cool!
 
-java is cool
-
-you can do it
+You can do it
